@@ -1,5 +1,11 @@
+• Curated collection of resources, saving you time and effort
+• Focus on practical tools and techniques for real-world testing
+• Community-driven, with regular updates and contribution
+• Designed for both beginners and experienced pen testers, with resources for all skill levels
+
+
 •  Exploits Database:
-    
+
 https://www.shodan.io
      
 http://www.exploit-db.com
